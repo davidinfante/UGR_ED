@@ -1,5 +1,5 @@
 # Estructura de Datos (UGR)
-## Trabajo realizado durante el curso 2016-2017.
+### Trabajo realizado durante el curso 2016-2017.
 
 <ol>
 <li><p> **Prácticas de la asignatura:** </p></li>
@@ -10,3 +10,11 @@
 
 1. **Prácticas de la asignatura (cursadas con Sergio Ramírez Gallego):**
     * *Sesión final: Adivina Refrán (en colaboración con @github/sefi97)*
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>

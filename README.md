@@ -7,4 +7,6 @@
       
           Desarrollo de un juego cuyo objetivo es adivinar el refrán propuesto.
           Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary tree structure).
+      
+      @github/sefi97
   

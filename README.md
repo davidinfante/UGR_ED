@@ -1,5 +1,5 @@
 # Estructura de Datos (UGR)
-#### Trabajo realizado durante el curso 2016-2017.
+### Trabajo realizado durante el curso 2016-2017.
 <dl>
   <dt>Prácticas de la asignatura:</dt>
   <dd></dd>

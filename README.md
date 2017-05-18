@@ -3,8 +3,8 @@
 
 1. **Prácticas de la asignatura (cursadas con Sergio Ramírez Gallego):**
 
-        _Sesión final: Adivina Refrán (en colaboración con @github/sefi97)_
+      *Sesión final: Adivina Refrán (en colaboración con @github/sefi97)*
         
-                Desarrollo de un juego cuyo objetivo es adivinar el refrán propuesto.
-                Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary tree structure).
+      Desarrollo de un juego cuyo objetivo es adivinar el refrán propuesto.
+      Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary tree structure).
   

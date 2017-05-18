@@ -3,6 +3,6 @@
 <dl>
   <dt>Prácticas de la asignatura:</dt>
   <dd><em>Sesión final: Adivina Refrán (en colaboración con José Fidel Ariza Álvarez).</em></dd>
-  <dd>Desarrollo de un juego similar al ahorcado que consiste en adivinar un refrán.</dd>
-  <dd>Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary Tree Structure).</dd>
+  <dd><em>Desarrollo de un juego similar al ahorcado que consiste en adivinar un refrán.</em></dd>
+  <dd><em>Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary Tree Structure).</em></dd>
 </dl>

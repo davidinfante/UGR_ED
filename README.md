@@ -8,13 +8,7 @@
 <li><p>Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary Tree Structure).</p></li>
 </ul>
 
-1. **Prácticas de la asignatura (cursadas con Sergio Ramírez Gallego):**
-    * *Sesión final: Adivina Refrán (en colaboración con @github/sefi97)*
-
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Prácticas de la asignatura:</dt>
+  <dd><em>Sesión final: Adivina Refrán (en colaboración con José Fidel Ariza Álvarez).</em></dd>
 </dl>

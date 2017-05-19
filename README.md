@@ -1,5 +1,5 @@
-# Estructura de Datos (UGR)
-### Trabajo realizado durante el curso 2016-2017.
+# Estructura de Datos
+### Trabajo realizado durante el curso 2016-2017 para el grado de Ingeniería Informática de la UGR.
 ##### Prácticas de la asignatura:
 <dl>
   <dt><em><a href="https://github.com/juanjeeeh/UGR_Estructura-Datos/tree/master/P5/adivina">Sesión final</a>: Adivina Refrán (en colaboración con <a href="https://github.com/sefi97">José Fidel Ariza</a>)</em></dt>

@@ -3,9 +3,9 @@
 <dl>
   <dt>Prácticas de la asignatura:</dt>
   <dd></dd>
-  <dd><em>Sesión final: Adivina Refrán (en colaboración con <a href="https://github.com/sefi97">José Fidel Ariza Álvarez</a>)</em></dd>
-  <dd><ul>
+  <dd><em>Sesión final: Adivina Refrán (en colaboración con <a href="https://github.com/sefi97">José Fidel Ariza</a>)</em></dd>
+  <dd><ol>
       <li>Desarrollo de un juego similar al ahorcado que consiste en adivinar un refrán.</li>
       <li>Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary Tree Structure).</li>
-  </ul></dd>
+  </ol></dd>
 </dl>

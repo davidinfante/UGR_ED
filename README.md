@@ -4,8 +4,8 @@
   <dt>Prácticas de la asignatura:</dt>
   <dd></dd>
   <dd><em><a href="https://github.com/juanjeeeh/UGR_Estructura-Datos/tree/master/P5/adivina">Sesión final</a>: Adivina Refrán (en colaboración con <a href="https://github.com/sefi97">José Fidel Ariza</a>)</em></dd>
-  <dd><ul>
-      <li>Desarrollo de un juego similar al ahorcado que consiste en adivinar un refrán.</li>
-      <li>Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary Tree Structure).</li>
-  </ul></dd>
+  <blockquote>
+  Desarrollo de un juego similar al ahorcado que consiste en adivinar un refrán.
+  Los refranes se almacenan en un T.D.A. ÁrbolGeneral (Binary Tree Structure).
+  </blockquote>
 </dl>
